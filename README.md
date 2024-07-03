@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD SHOHOOQUE</h1>
 <h3 align="center">A passionate AI based developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohooque&label=Profile%20views&color=0e75b6&style=flat" alt="shohooque" /> </p>
