@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD SHOHOOQUE</h1>
 <h3 align="center">A passionate AI based developer from India</h3>
 
-<img align="right" alt="coding"width="400"src="[https://cdn.dribbble.com/users/1446559/screenshots/5453050/97e3bc07ac5ca76150df36be8e142336.gif](https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_-MS4Xh-r_X3siUbVzkL_NiwteFP_8qf2gBCcabXFgAAAA%3D%3D&q=https:%2F%2Fwww.ncl.ac.uk%2Fpress%2Farticles%2Farchive%2F2018%2F01%2Fmachinelearning%2F&ctx=iv&hl=en&sa=X&ved=0CA0Qg4ILahcKEwjol77A8IqHAxUAAAAAHQAAAAAQLw)">
+<img align="right" alt="coding"width="400"src=https://qph.cf2.quoracdn.net/main-qimg-270b7e36080565f95736692774b60b24">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohooque&label=Profile%20views&color=0e75b6&style=flat" alt="shohooque" /> </p>
 
