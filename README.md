@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MOHAMMAD SHOHOOQUE</h1>
 <h3 align="center">A passionate AI based developer from India</h3>
 
-<img align="right" alt="coding"width="400"src=https://qph.cf2.quoracdn.net/main-qimg-270b7e36080565f95736692774b60b24">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shohooque&label=Profile%20views&color=0e75b6&style=flat" alt="shohooque" /> </p>
 
